@@ -71,7 +71,7 @@ section .title::after{
     bottom: -8px;
     left: 50%;
     font-size: 20px;
-    color: crimson;
+    color: rgb(47, 0, 255);
     padding: 0 5px;
     background: #fff;
     transform: translateX(-50%);
@@ -273,7 +273,7 @@ section .title::after{
 } */
 .services .serv-content .card{
     width: calc(33% - 20px);
-    background: #222;
+    background: #020823;
     text-align: center;
     border-radius: 6px;
     padding: 50px 25px;
@@ -398,7 +398,7 @@ section .title::after{
     content: "Thid is experiences";
 } */
 .teams .carousel .card{
-    background: #222;
+    background: #020823;
     border-radius: 6px;
     padding: 25px 35px;
     text-align: center;
