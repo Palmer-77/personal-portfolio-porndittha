@@ -234,6 +234,10 @@ section .title::after{
     font-weight: 600;
     margin-bottom: 10px;
 }
+.about .about-content .right .text-p{
+    font-size: 18px;
+    font-weight: 400;
+}
 .about .about-content .right .text span{
     color: rgb(47, 0, 255);
 }
@@ -392,6 +396,12 @@ section .title::after{
 .skills-content .right .python::before{
     width: 50%;
 }
+.skills-content .right .mongodb::before{
+    width: 50%;
+}
+.skills-content .right .firebase::before{
+    width: 70%;
+}
 
 /* teams section styling */
 /* .teams .title::after{
@@ -492,6 +502,10 @@ section .title::after{
 }
 .contact .contact-content .info .sub-title{
     color: #333;
+}
+.contact .contact-content .info .sub-title .a-harf{
+    color: rgb(47, 0, 255);
+    font-weight: bold;
 }
 .contact .right form .fields{
     display: flex;
